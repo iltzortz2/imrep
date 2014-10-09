@@ -45,7 +45,7 @@ public class AnotherProject {
      */
     public static void main(String[] args) {
         Model m = null;
-        System.out.println("Hello another project world !!!");     
+        System.out.println("Hello another project world xa xa !!!");     
         
     }
     
